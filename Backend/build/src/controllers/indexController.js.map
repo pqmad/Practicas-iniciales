@@ -1,0 +1,1 @@
+{"version":3,"file":"indexController.js","sourceRoot":"","sources":["../../../src/controllers/indexController.ts"],"names":[],"mappings":";;;AAEA,MAAM,eAAe;IACV,KAAK,CAAE,GAAY,EAAE,GAAa;QACrC,GAAG,CAAC,IAAI,CAAC,cAAc,CAAC,CAAC;IAC7B,CAAC;CAEJ;AAEY,QAAA,eAAe,GAAG,IAAI,eAAe,EAAE,CAAC"}
